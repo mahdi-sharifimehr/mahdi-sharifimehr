@@ -37,4 +37,5 @@ Senior React Native Developer | Mobile Architect | 10+ Years in Mobile App Devel
 ---
 
 📊 **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-sharifimehr&show_icons=true&theme=radical)
